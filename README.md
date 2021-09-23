@@ -3,6 +3,9 @@ During COVID-19 pandemic, we all know how much essential it is wear to mask to p
 
 ![Project demo gif ](https://github.com/sumanta1997/sumanta_smartmaskdetector/blob/main/New%20video.gif)
 
+
+![demo_video](https://www.youtube.com/watch?v=8AUnSiu6o8M&t=19s)
+
 ## Guidelines 
 Folowing guidelines have to be followed for using it:
 
