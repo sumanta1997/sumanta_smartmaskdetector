@@ -1,10 +1,8 @@
 # sumanta_smartmaskdetector
 During COVID-19 pandemic, we all know how much essential it is wear to mask to prevent further spread of novel corona virus. Here is a smart AI solution of detection of face mask. I've trained a resnet18 model to classify among people who are wearing mask from people who are not wearing mask. It has designed to run nVIDIA Jetson platform. 
 
-![Project demo gif ](https://github.com/sumanta1997/sumanta_smartmaskdetector/blob/main/New%20video.gif)
+[![Project demo gif ](https://github.com/sumanta1997/sumanta_smartmaskdetector/blob/main/New%20video.gif)](https://www.youtube.com/watch?v=8AUnSiu6o8M&t=19s)
 
-
-![demo_video](https://www.youtube.com/watch?v=8AUnSiu6o8M&t=19s)
 
 ## Guidelines 
 Folowing guidelines have to be followed for using it:
@@ -34,3 +32,5 @@ Step 5. Run the inference by running mask-detector.py with usb webcam as input
 command: python3 mask-detector.py /dev/video0
 
 That's it
+
+## Demo Video
